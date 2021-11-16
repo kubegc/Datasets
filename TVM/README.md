@@ -10,6 +10,8 @@ test_dimension: python-tuple：((s0,s1,...,sn),(x,y))。表示待测对象存在
 shape: ((-1,x1,x2,x3),(y0,y1,y2,y3),...)。表示该组数据实际测试时，选取的输入shape，-1表示变化为维度，通常对应数据的横坐标。应该满足两个基本条件：1. 作为输入满足算子输入限定条件，例如矩阵运算的shape关系 2. 和<test_dimension>描述内容一致
 ```
 
+注：文档中的`shape`通常指代关键input参数，除了`batch size`以外的维度
+
 ### 数据(shapen.txt)格式说明:
 
 ```txt

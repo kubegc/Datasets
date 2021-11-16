@@ -1,6 +1,7 @@
 ### 不同配置下模型运行时间测量：
 
 shape: 设定经验值
+
 batch size:
   * inception_v3: 1~128
   * lstm: 1~201, 10为间隔等间距采样
