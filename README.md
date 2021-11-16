@@ -6,3 +6,5 @@
 * TVM
     * [数据集生成](https://github.com/dos-lab/TVMPredictor)
     * [绘图分析代码](https://github.com/dos-lab/TVM-Analyze)
+
+[Git submodule使用](https://www.aflyingfish.top/articles/bd654071b044/)
