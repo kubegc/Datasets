@@ -1,7 +1,7 @@
 {
-    "count": 192,
+    "count": 350,
     "dell04": {
-        "count": 192,
+        "count": 350,
         "resnet3d-50": {
             "0": {
                 "((4,), (0, 0))": {
@@ -677,6 +677,390 @@
                         "shapes": "((-1, 3, 192, 96),)",
                         "time": "2021-11-15 16:17:18"
                     },
+                    "((-1, 3, 208, 112),)": {
+                        "changed_shape": "((4,), (0, 0))",
+                        "file_path": "TVM/datasets_models/dell04/resnet3d-50/0/((4,), (0, 0))/((-1, 3, 208, 112),).txt",
+                        "shapes": "((-1, 3, 208, 112),)",
+                        "time": "2021-11-16 04:14:36"
+                    },
+                    "((-1, 3, 208, 128),)": {
+                        "changed_shape": "((4,), (0, 0))",
+                        "file_path": "TVM/datasets_models/dell04/resnet3d-50/0/((4,), (0, 0))/((-1, 3, 208, 128),).txt",
+                        "shapes": "((-1, 3, 208, 128),)",
+                        "time": "2021-11-16 04:28:37"
+                    },
+                    "((-1, 3, 208, 144),)": {
+                        "changed_shape": "((4,), (0, 0))",
+                        "file_path": "TVM/datasets_models/dell04/resnet3d-50/0/((4,), (0, 0))/((-1, 3, 208, 144),).txt",
+                        "shapes": "((-1, 3, 208, 144),)",
+                        "time": "2021-11-16 04:47:38"
+                    },
+                    "((-1, 3, 208, 16),)": {
+                        "changed_shape": "((4,), (0, 0))",
+                        "file_path": "TVM/datasets_models/dell04/resnet3d-50/0/((4,), (0, 0))/((-1, 3, 208, 16),).txt",
+                        "shapes": "((-1, 3, 208, 16),)",
+                        "time": "2021-11-16 02:31:39"
+                    },
+                    "((-1, 3, 208, 160),)": {
+                        "changed_shape": "((4,), (0, 0))",
+                        "file_path": "TVM/datasets_models/dell04/resnet3d-50/0/((4,), (0, 0))/((-1, 3, 208, 160),).txt",
+                        "shapes": "((-1, 3, 208, 160),)",
+                        "time": "2021-11-16 05:06:11"
+                    },
+                    "((-1, 3, 208, 176),)": {
+                        "changed_shape": "((4,), (0, 0))",
+                        "file_path": "TVM/datasets_models/dell04/resnet3d-50/0/((4,), (0, 0))/((-1, 3, 208, 176),).txt",
+                        "shapes": "((-1, 3, 208, 176),)",
+                        "time": "2021-11-16 05:26:00"
+                    },
+                    "((-1, 3, 208, 192),)": {
+                        "changed_shape": "((4,), (0, 0))",
+                        "file_path": "TVM/datasets_models/dell04/resnet3d-50/0/((4,), (0, 0))/((-1, 3, 208, 192),).txt",
+                        "shapes": "((-1, 3, 208, 192),)",
+                        "time": "2021-11-16 05:40:53"
+                    },
+                    "((-1, 3, 208, 208),)": {
+                        "changed_shape": "((4,), (0, 0))",
+                        "file_path": "TVM/datasets_models/dell04/resnet3d-50/0/((4,), (0, 0))/((-1, 3, 208, 208),).txt",
+                        "shapes": "((-1, 3, 208, 208),)",
+                        "time": "2021-11-16 06:02:27"
+                    },
+                    "((-1, 3, 208, 224),)": {
+                        "changed_shape": "((4,), (0, 0))",
+                        "file_path": "TVM/datasets_models/dell04/resnet3d-50/0/((4,), (0, 0))/((-1, 3, 208, 224),).txt",
+                        "shapes": "((-1, 3, 208, 224),)",
+                        "time": "2021-11-16 06:21:08"
+                    },
+                    "((-1, 3, 208, 240),)": {
+                        "changed_shape": "((4,), (0, 0))",
+                        "file_path": "TVM/datasets_models/dell04/resnet3d-50/0/((4,), (0, 0))/((-1, 3, 208, 240),).txt",
+                        "shapes": "((-1, 3, 208, 240),)",
+                        "time": "2021-11-16 06:40:04"
+                    },
+                    "((-1, 3, 208, 256),)": {
+                        "changed_shape": "((4,), (0, 0))",
+                        "file_path": "TVM/datasets_models/dell04/resnet3d-50/0/((4,), (0, 0))/((-1, 3, 208, 256),).txt",
+                        "shapes": "((-1, 3, 208, 256),)",
+                        "time": "2021-11-16 06:54:43"
+                    },
+                    "((-1, 3, 208, 32),)": {
+                        "changed_shape": "((4,), (0, 0))",
+                        "file_path": "TVM/datasets_models/dell04/resnet3d-50/0/((4,), (0, 0))/((-1, 3, 208, 32),).txt",
+                        "shapes": "((-1, 3, 208, 32),)",
+                        "time": "2021-11-16 02:49:43"
+                    },
+                    "((-1, 3, 208, 48),)": {
+                        "changed_shape": "((4,), (0, 0))",
+                        "file_path": "TVM/datasets_models/dell04/resnet3d-50/0/((4,), (0, 0))/((-1, 3, 208, 48),).txt",
+                        "shapes": "((-1, 3, 208, 48),)",
+                        "time": "2021-11-16 03:06:55"
+                    },
+                    "((-1, 3, 208, 64),)": {
+                        "changed_shape": "((4,), (0, 0))",
+                        "file_path": "TVM/datasets_models/dell04/resnet3d-50/0/((4,), (0, 0))/((-1, 3, 208, 64),).txt",
+                        "shapes": "((-1, 3, 208, 64),)",
+                        "time": "2021-11-16 03:20:25"
+                    },
+                    "((-1, 3, 208, 80),)": {
+                        "changed_shape": "((4,), (0, 0))",
+                        "file_path": "TVM/datasets_models/dell04/resnet3d-50/0/((4,), (0, 0))/((-1, 3, 208, 80),).txt",
+                        "shapes": "((-1, 3, 208, 80),)",
+                        "time": "2021-11-16 03:38:40"
+                    },
+                    "((-1, 3, 208, 96),)": {
+                        "changed_shape": "((4,), (0, 0))",
+                        "file_path": "TVM/datasets_models/dell04/resnet3d-50/0/((4,), (0, 0))/((-1, 3, 208, 96),).txt",
+                        "shapes": "((-1, 3, 208, 96),)",
+                        "time": "2021-11-16 03:57:04"
+                    },
+                    "((-1, 3, 224, 112),)": {
+                        "changed_shape": "((4,), (0, 0))",
+                        "file_path": "TVM/datasets_models/dell04/resnet3d-50/0/((4,), (0, 0))/((-1, 3, 224, 112),).txt",
+                        "shapes": "((-1, 3, 224, 112),)",
+                        "time": "2021-11-16 09:13:13"
+                    },
+                    "((-1, 3, 224, 128),)": {
+                        "changed_shape": "((4,), (0, 0))",
+                        "file_path": "TVM/datasets_models/dell04/resnet3d-50/0/((4,), (0, 0))/((-1, 3, 224, 128),).txt",
+                        "shapes": "((-1, 3, 224, 128),)",
+                        "time": "2021-11-16 09:28:02"
+                    },
+                    "((-1, 3, 224, 144),)": {
+                        "changed_shape": "((4,), (0, 0))",
+                        "file_path": "TVM/datasets_models/dell04/resnet3d-50/0/((4,), (0, 0))/((-1, 3, 224, 144),).txt",
+                        "shapes": "((-1, 3, 224, 144),)",
+                        "time": "2021-11-16 09:49:36"
+                    },
+                    "((-1, 3, 224, 16),)": {
+                        "changed_shape": "((4,), (0, 0))",
+                        "file_path": "TVM/datasets_models/dell04/resnet3d-50/0/((4,), (0, 0))/((-1, 3, 224, 16),).txt",
+                        "shapes": "((-1, 3, 224, 16),)",
+                        "time": "2021-11-16 07:13:00"
+                    },
+                    "((-1, 3, 224, 160),)": {
+                        "changed_shape": "((4,), (0, 0))",
+                        "file_path": "TVM/datasets_models/dell04/resnet3d-50/0/((4,), (0, 0))/((-1, 3, 224, 160),).txt",
+                        "shapes": "((-1, 3, 224, 160),)",
+                        "time": "2021-11-16 10:11:20"
+                    },
+                    "((-1, 3, 224, 176),)": {
+                        "changed_shape": "((4,), (0, 0))",
+                        "file_path": "TVM/datasets_models/dell04/resnet3d-50/0/((4,), (0, 0))/((-1, 3, 224, 176),).txt",
+                        "shapes": "((-1, 3, 224, 176),)",
+                        "time": "2021-11-16 10:32:39"
+                    },
+                    "((-1, 3, 224, 192),)": {
+                        "changed_shape": "((4,), (0, 0))",
+                        "file_path": "TVM/datasets_models/dell04/resnet3d-50/0/((4,), (0, 0))/((-1, 3, 224, 192),).txt",
+                        "shapes": "((-1, 3, 224, 192),)",
+                        "time": "2021-11-16 10:48:51"
+                    },
+                    "((-1, 3, 224, 208),)": {
+                        "changed_shape": "((4,), (0, 0))",
+                        "file_path": "TVM/datasets_models/dell04/resnet3d-50/0/((4,), (0, 0))/((-1, 3, 224, 208),).txt",
+                        "shapes": "((-1, 3, 224, 208),)",
+                        "time": "2021-11-16 11:10:30"
+                    },
+                    "((-1, 3, 224, 224),)": {
+                        "changed_shape": "((4,), (0, 0))",
+                        "file_path": "TVM/datasets_models/dell04/resnet3d-50/0/((4,), (0, 0))/((-1, 3, 224, 224),).txt",
+                        "shapes": "((-1, 3, 224, 224),)",
+                        "time": "2021-11-16 11:32:26"
+                    },
+                    "((-1, 3, 224, 240),)": {
+                        "changed_shape": "((4,), (0, 0))",
+                        "file_path": "TVM/datasets_models/dell04/resnet3d-50/0/((4,), (0, 0))/((-1, 3, 224, 240),).txt",
+                        "shapes": "((-1, 3, 224, 240),)",
+                        "time": "2021-11-16 11:53:24"
+                    },
+                    "((-1, 3, 224, 256),)": {
+                        "changed_shape": "((4,), (0, 0))",
+                        "file_path": "TVM/datasets_models/dell04/resnet3d-50/0/((4,), (0, 0))/((-1, 3, 224, 256),).txt",
+                        "shapes": "((-1, 3, 224, 256),)",
+                        "time": "2021-11-16 12:09:02"
+                    },
+                    "((-1, 3, 224, 32),)": {
+                        "changed_shape": "((4,), (0, 0))",
+                        "file_path": "TVM/datasets_models/dell04/resnet3d-50/0/((4,), (0, 0))/((-1, 3, 224, 32),).txt",
+                        "shapes": "((-1, 3, 224, 32),)",
+                        "time": "2021-11-16 07:33:36"
+                    },
+                    "((-1, 3, 224, 48),)": {
+                        "changed_shape": "((4,), (0, 0))",
+                        "file_path": "TVM/datasets_models/dell04/resnet3d-50/0/((4,), (0, 0))/((-1, 3, 224, 48),).txt",
+                        "shapes": "((-1, 3, 224, 48),)",
+                        "time": "2021-11-16 07:53:41"
+                    },
+                    "((-1, 3, 224, 64),)": {
+                        "changed_shape": "((4,), (0, 0))",
+                        "file_path": "TVM/datasets_models/dell04/resnet3d-50/0/((4,), (0, 0))/((-1, 3, 224, 64),).txt",
+                        "shapes": "((-1, 3, 224, 64),)",
+                        "time": "2021-11-16 08:08:07"
+                    },
+                    "((-1, 3, 224, 80),)": {
+                        "changed_shape": "((4,), (0, 0))",
+                        "file_path": "TVM/datasets_models/dell04/resnet3d-50/0/((4,), (0, 0))/((-1, 3, 224, 80),).txt",
+                        "shapes": "((-1, 3, 224, 80),)",
+                        "time": "2021-11-16 08:30:12"
+                    },
+                    "((-1, 3, 224, 96),)": {
+                        "changed_shape": "((4,), (0, 0))",
+                        "file_path": "TVM/datasets_models/dell04/resnet3d-50/0/((4,), (0, 0))/((-1, 3, 224, 96),).txt",
+                        "shapes": "((-1, 3, 224, 96),)",
+                        "time": "2021-11-16 08:51:48"
+                    },
+                    "((-1, 3, 240, 112),)": {
+                        "changed_shape": "((4,), (0, 0))",
+                        "file_path": "TVM/datasets_models/dell04/resnet3d-50/0/((4,), (0, 0))/((-1, 3, 240, 112),).txt",
+                        "shapes": "((-1, 3, 240, 112),)",
+                        "time": "2021-11-16 14:22:00"
+                    },
+                    "((-1, 3, 240, 128),)": {
+                        "changed_shape": "((4,), (0, 0))",
+                        "file_path": "TVM/datasets_models/dell04/resnet3d-50/0/((4,), (0, 0))/((-1, 3, 240, 128),).txt",
+                        "shapes": "((-1, 3, 240, 128),)",
+                        "time": "2021-11-16 14:37:00"
+                    },
+                    "((-1, 3, 240, 144),)": {
+                        "changed_shape": "((4,), (0, 0))",
+                        "file_path": "TVM/datasets_models/dell04/resnet3d-50/0/((4,), (0, 0))/((-1, 3, 240, 144),).txt",
+                        "shapes": "((-1, 3, 240, 144),)",
+                        "time": "2021-11-16 14:57:23"
+                    },
+                    "((-1, 3, 240, 16),)": {
+                        "changed_shape": "((4,), (0, 0))",
+                        "file_path": "TVM/datasets_models/dell04/resnet3d-50/0/((4,), (0, 0))/((-1, 3, 240, 16),).txt",
+                        "shapes": "((-1, 3, 240, 16),)",
+                        "time": "2021-11-16 12:28:22"
+                    },
+                    "((-1, 3, 240, 160),)": {
+                        "changed_shape": "((4,), (0, 0))",
+                        "file_path": "TVM/datasets_models/dell04/resnet3d-50/0/((4,), (0, 0))/((-1, 3, 240, 160),).txt",
+                        "shapes": "((-1, 3, 240, 160),)",
+                        "time": "2021-11-16 15:17:44"
+                    },
+                    "((-1, 3, 240, 176),)": {
+                        "changed_shape": "((4,), (0, 0))",
+                        "file_path": "TVM/datasets_models/dell04/resnet3d-50/0/((4,), (0, 0))/((-1, 3, 240, 176),).txt",
+                        "shapes": "((-1, 3, 240, 176),)",
+                        "time": "2021-11-16 15:38:41"
+                    },
+                    "((-1, 3, 240, 192),)": {
+                        "changed_shape": "((4,), (0, 0))",
+                        "file_path": "TVM/datasets_models/dell04/resnet3d-50/0/((4,), (0, 0))/((-1, 3, 240, 192),).txt",
+                        "shapes": "((-1, 3, 240, 192),)",
+                        "time": "2021-11-16 15:54:56"
+                    },
+                    "((-1, 3, 240, 208),)": {
+                        "changed_shape": "((4,), (0, 0))",
+                        "file_path": "TVM/datasets_models/dell04/resnet3d-50/0/((4,), (0, 0))/((-1, 3, 240, 208),).txt",
+                        "shapes": "((-1, 3, 240, 208),)",
+                        "time": "2021-11-16 16:16:45"
+                    },
+                    "((-1, 3, 240, 224),)": {
+                        "changed_shape": "((4,), (0, 0))",
+                        "file_path": "TVM/datasets_models/dell04/resnet3d-50/0/((4,), (0, 0))/((-1, 3, 240, 224),).txt",
+                        "shapes": "((-1, 3, 240, 224),)",
+                        "time": "2021-11-16 16:37:11"
+                    },
+                    "((-1, 3, 240, 240),)": {
+                        "changed_shape": "((4,), (0, 0))",
+                        "file_path": "TVM/datasets_models/dell04/resnet3d-50/0/((4,), (0, 0))/((-1, 3, 240, 240),).txt",
+                        "shapes": "((-1, 3, 240, 240),)",
+                        "time": "2021-11-16 16:58:11"
+                    },
+                    "((-1, 3, 240, 256),)": {
+                        "changed_shape": "((4,), (0, 0))",
+                        "file_path": "TVM/datasets_models/dell04/resnet3d-50/0/((4,), (0, 0))/((-1, 3, 240, 256),).txt",
+                        "shapes": "((-1, 3, 240, 256),)",
+                        "time": "2021-11-16 17:14:42"
+                    },
+                    "((-1, 3, 240, 32),)": {
+                        "changed_shape": "((4,), (0, 0))",
+                        "file_path": "TVM/datasets_models/dell04/resnet3d-50/0/((4,), (0, 0))/((-1, 3, 240, 32),).txt",
+                        "shapes": "((-1, 3, 240, 32),)",
+                        "time": "2021-11-16 12:47:45"
+                    },
+                    "((-1, 3, 240, 48),)": {
+                        "changed_shape": "((4,), (0, 0))",
+                        "file_path": "TVM/datasets_models/dell04/resnet3d-50/0/((4,), (0, 0))/((-1, 3, 240, 48),).txt",
+                        "shapes": "((-1, 3, 240, 48),)",
+                        "time": "2021-11-16 13:07:20"
+                    },
+                    "((-1, 3, 240, 64),)": {
+                        "changed_shape": "((4,), (0, 0))",
+                        "file_path": "TVM/datasets_models/dell04/resnet3d-50/0/((4,), (0, 0))/((-1, 3, 240, 64),).txt",
+                        "shapes": "((-1, 3, 240, 64),)",
+                        "time": "2021-11-16 13:22:21"
+                    },
+                    "((-1, 3, 240, 80),)": {
+                        "changed_shape": "((4,), (0, 0))",
+                        "file_path": "TVM/datasets_models/dell04/resnet3d-50/0/((4,), (0, 0))/((-1, 3, 240, 80),).txt",
+                        "shapes": "((-1, 3, 240, 80),)",
+                        "time": "2021-11-16 13:42:22"
+                    },
+                    "((-1, 3, 240, 96),)": {
+                        "changed_shape": "((4,), (0, 0))",
+                        "file_path": "TVM/datasets_models/dell04/resnet3d-50/0/((4,), (0, 0))/((-1, 3, 240, 96),).txt",
+                        "shapes": "((-1, 3, 240, 96),)",
+                        "time": "2021-11-16 14:01:52"
+                    },
+                    "((-1, 3, 256, 112),)": {
+                        "changed_shape": "((4,), (0, 0))",
+                        "file_path": "TVM/datasets_models/dell04/resnet3d-50/0/((4,), (0, 0))/((-1, 3, 256, 112),).txt",
+                        "shapes": "((-1, 3, 256, 112),)",
+                        "time": "2021-11-16 19:01:40"
+                    },
+                    "((-1, 3, 256, 128),)": {
+                        "changed_shape": "((4,), (0, 0))",
+                        "file_path": "TVM/datasets_models/dell04/resnet3d-50/0/((4,), (0, 0))/((-1, 3, 256, 128),).txt",
+                        "shapes": "((-1, 3, 256, 128),)",
+                        "time": "2021-11-16 19:17:17"
+                    },
+                    "((-1, 3, 256, 144),)": {
+                        "changed_shape": "((4,), (0, 0))",
+                        "file_path": "TVM/datasets_models/dell04/resnet3d-50/0/((4,), (0, 0))/((-1, 3, 256, 144),).txt",
+                        "shapes": "((-1, 3, 256, 144),)",
+                        "time": "2021-11-16 19:33:14"
+                    },
+                    "((-1, 3, 256, 16),)": {
+                        "changed_shape": "((4,), (0, 0))",
+                        "file_path": "TVM/datasets_models/dell04/resnet3d-50/0/((4,), (0, 0))/((-1, 3, 256, 16),).txt",
+                        "shapes": "((-1, 3, 256, 16),)",
+                        "time": "2021-11-16 17:29:54"
+                    },
+                    "((-1, 3, 256, 160),)": {
+                        "changed_shape": "((4,), (0, 0))",
+                        "file_path": "TVM/datasets_models/dell04/resnet3d-50/0/((4,), (0, 0))/((-1, 3, 256, 160),).txt",
+                        "shapes": "((-1, 3, 256, 160),)",
+                        "time": "2021-11-16 19:48:55"
+                    },
+                    "((-1, 3, 256, 176),)": {
+                        "changed_shape": "((4,), (0, 0))",
+                        "file_path": "TVM/datasets_models/dell04/resnet3d-50/0/((4,), (0, 0))/((-1, 3, 256, 176),).txt",
+                        "shapes": "((-1, 3, 256, 176),)",
+                        "time": "2021-11-16 20:04:50"
+                    },
+                    "((-1, 3, 256, 192),)": {
+                        "changed_shape": "((4,), (0, 0))",
+                        "file_path": "TVM/datasets_models/dell04/resnet3d-50/0/((4,), (0, 0))/((-1, 3, 256, 192),).txt",
+                        "shapes": "((-1, 3, 256, 192),)",
+                        "time": "2021-11-16 20:21:02"
+                    },
+                    "((-1, 3, 256, 208),)": {
+                        "changed_shape": "((4,), (0, 0))",
+                        "file_path": "TVM/datasets_models/dell04/resnet3d-50/0/((4,), (0, 0))/((-1, 3, 256, 208),).txt",
+                        "shapes": "((-1, 3, 256, 208),)",
+                        "time": "2021-11-16 20:37:18"
+                    },
+                    "((-1, 3, 256, 224),)": {
+                        "changed_shape": "((4,), (0, 0))",
+                        "file_path": "TVM/datasets_models/dell04/resnet3d-50/0/((4,), (0, 0))/((-1, 3, 256, 224),).txt",
+                        "shapes": "((-1, 3, 256, 224),)",
+                        "time": "2021-11-16 20:53:18"
+                    },
+                    "((-1, 3, 256, 240),)": {
+                        "changed_shape": "((4,), (0, 0))",
+                        "file_path": "TVM/datasets_models/dell04/resnet3d-50/0/((4,), (0, 0))/((-1, 3, 256, 240),).txt",
+                        "shapes": "((-1, 3, 256, 240),)",
+                        "time": "2021-11-16 21:09:39"
+                    },
+                    "((-1, 3, 256, 256),)": {
+                        "changed_shape": "((4,), (0, 0))",
+                        "file_path": "TVM/datasets_models/dell04/resnet3d-50/0/((4,), (0, 0))/((-1, 3, 256, 256),).txt",
+                        "shapes": "((-1, 3, 256, 256),)",
+                        "time": "2021-11-16 21:25:54"
+                    },
+                    "((-1, 3, 256, 32),)": {
+                        "changed_shape": "((4,), (0, 0))",
+                        "file_path": "TVM/datasets_models/dell04/resnet3d-50/0/((4,), (0, 0))/((-1, 3, 256, 32),).txt",
+                        "shapes": "((-1, 3, 256, 32),)",
+                        "time": "2021-11-16 17:44:43"
+                    },
+                    "((-1, 3, 256, 48),)": {
+                        "changed_shape": "((4,), (0, 0))",
+                        "file_path": "TVM/datasets_models/dell04/resnet3d-50/0/((4,), (0, 0))/((-1, 3, 256, 48),).txt",
+                        "shapes": "((-1, 3, 256, 48),)",
+                        "time": "2021-11-16 17:59:56"
+                    },
+                    "((-1, 3, 256, 64),)": {
+                        "changed_shape": "((4,), (0, 0))",
+                        "file_path": "TVM/datasets_models/dell04/resnet3d-50/0/((4,), (0, 0))/((-1, 3, 256, 64),).txt",
+                        "shapes": "((-1, 3, 256, 64),)",
+                        "time": "2021-11-16 18:15:12"
+                    },
+                    "((-1, 3, 256, 80),)": {
+                        "changed_shape": "((4,), (0, 0))",
+                        "file_path": "TVM/datasets_models/dell04/resnet3d-50/0/((4,), (0, 0))/((-1, 3, 256, 80),).txt",
+                        "shapes": "((-1, 3, 256, 80),)",
+                        "time": "2021-11-16 18:30:48"
+                    },
+                    "((-1, 3, 256, 96),)": {
+                        "changed_shape": "((4,), (0, 0))",
+                        "file_path": "TVM/datasets_models/dell04/resnet3d-50/0/((4,), (0, 0))/((-1, 3, 256, 96),).txt",
+                        "shapes": "((-1, 3, 256, 96),)",
+                        "time": "2021-11-16 18:46:03"
+                    },
                     "((-1, 3, 32, 112),)": {
                         "changed_shape": "((4,), (0, 0))",
                         "file_path": "TVM/datasets_models/dell04/resnet3d-50/0/((4,), (0, 0))/((-1, 3, 32, 112),).txt",
@@ -1157,11 +1541,584 @@
                         "shapes": "((-1, 3, 96, 96),)",
                         "time": "2021-11-14 08:12:17"
                     },
-                    "count": 192
+                    "count": 256
                 },
-                "count": 192
+                "count": 256
             },
-            "count": 192
+            "count": 256
+        },
+        "squeezenet_v1.1": {
+            "0": {
+                "((4,), (0, 0))": {
+                    "((-1, 3, 112, 112),)": {
+                        "changed_shape": "((4,), (0, 0))",
+                        "file_path": "TVM/datasets_models/dell04/squeezenet_v1.1/0/((4,), (0, 0))/((-1, 3, 112, 112),).txt",
+                        "shapes": "((-1, 3, 112, 112),)",
+                        "time": "2021-11-17 17:47:07"
+                    },
+                    "((-1, 3, 112, 128),)": {
+                        "changed_shape": "((4,), (0, 0))",
+                        "file_path": "TVM/datasets_models/dell04/squeezenet_v1.1/0/((4,), (0, 0))/((-1, 3, 112, 128),).txt",
+                        "shapes": "((-1, 3, 112, 128),)",
+                        "time": "2021-11-17 18:00:41"
+                    },
+                    "((-1, 3, 112, 144),)": {
+                        "changed_shape": "((4,), (0, 0))",
+                        "file_path": "TVM/datasets_models/dell04/squeezenet_v1.1/0/((4,), (0, 0))/((-1, 3, 112, 144),).txt",
+                        "shapes": "((-1, 3, 112, 144),)",
+                        "time": "2021-11-17 18:10:42"
+                    },
+                    "((-1, 3, 112, 160),)": {
+                        "changed_shape": "((4,), (0, 0))",
+                        "file_path": "TVM/datasets_models/dell04/squeezenet_v1.1/0/((4,), (0, 0))/((-1, 3, 112, 160),).txt",
+                        "shapes": "((-1, 3, 112, 160),)",
+                        "time": "2021-11-17 18:21:41"
+                    },
+                    "((-1, 3, 112, 176),)": {
+                        "changed_shape": "((4,), (0, 0))",
+                        "file_path": "TVM/datasets_models/dell04/squeezenet_v1.1/0/((4,), (0, 0))/((-1, 3, 112, 176),).txt",
+                        "shapes": "((-1, 3, 112, 176),)",
+                        "time": "2021-11-17 18:34:58"
+                    },
+                    "((-1, 3, 112, 192),)": {
+                        "changed_shape": "((4,), (0, 0))",
+                        "file_path": "TVM/datasets_models/dell04/squeezenet_v1.1/0/((4,), (0, 0))/((-1, 3, 112, 192),).txt",
+                        "shapes": "((-1, 3, 112, 192),)",
+                        "time": "2021-11-17 18:46:42"
+                    },
+                    "((-1, 3, 112, 208),)": {
+                        "changed_shape": "((4,), (0, 0))",
+                        "file_path": "TVM/datasets_models/dell04/squeezenet_v1.1/0/((4,), (0, 0))/((-1, 3, 112, 208),).txt",
+                        "shapes": "((-1, 3, 112, 208),)",
+                        "time": "2021-11-17 18:58:53"
+                    },
+                    "((-1, 3, 112, 224),)": {
+                        "changed_shape": "((4,), (0, 0))",
+                        "file_path": "TVM/datasets_models/dell04/squeezenet_v1.1/0/((4,), (0, 0))/((-1, 3, 112, 224),).txt",
+                        "shapes": "((-1, 3, 112, 224),)",
+                        "time": "2021-11-17 19:11:56"
+                    },
+                    "((-1, 3, 112, 240),)": {
+                        "changed_shape": "((4,), (0, 0))",
+                        "file_path": "TVM/datasets_models/dell04/squeezenet_v1.1/0/((4,), (0, 0))/((-1, 3, 112, 240),).txt",
+                        "shapes": "((-1, 3, 112, 240),)",
+                        "time": "2021-11-17 19:27:30"
+                    },
+                    "((-1, 3, 112, 256),)": {
+                        "changed_shape": "((4,), (0, 0))",
+                        "file_path": "TVM/datasets_models/dell04/squeezenet_v1.1/0/((4,), (0, 0))/((-1, 3, 112, 256),).txt",
+                        "shapes": "((-1, 3, 112, 256),)",
+                        "time": "2021-11-17 19:41:45"
+                    },
+                    "((-1, 3, 112, 32),)": {
+                        "changed_shape": "((4,), (0, 0))",
+                        "file_path": "TVM/datasets_models/dell04/squeezenet_v1.1/0/((4,), (0, 0))/((-1, 3, 112, 32),).txt",
+                        "shapes": "((-1, 3, 112, 32),)",
+                        "time": "2021-11-17 16:43:11"
+                    },
+                    "((-1, 3, 112, 48),)": {
+                        "changed_shape": "((4,), (0, 0))",
+                        "file_path": "TVM/datasets_models/dell04/squeezenet_v1.1/0/((4,), (0, 0))/((-1, 3, 112, 48),).txt",
+                        "shapes": "((-1, 3, 112, 48),)",
+                        "time": "2021-11-17 16:56:15"
+                    },
+                    "((-1, 3, 112, 64),)": {
+                        "changed_shape": "((4,), (0, 0))",
+                        "file_path": "TVM/datasets_models/dell04/squeezenet_v1.1/0/((4,), (0, 0))/((-1, 3, 112, 64),).txt",
+                        "shapes": "((-1, 3, 112, 64),)",
+                        "time": "2021-11-17 17:09:26"
+                    },
+                    "((-1, 3, 112, 80),)": {
+                        "changed_shape": "((4,), (0, 0))",
+                        "file_path": "TVM/datasets_models/dell04/squeezenet_v1.1/0/((4,), (0, 0))/((-1, 3, 112, 80),).txt",
+                        "shapes": "((-1, 3, 112, 80),)",
+                        "time": "2021-11-17 17:22:04"
+                    },
+                    "((-1, 3, 112, 96),)": {
+                        "changed_shape": "((4,), (0, 0))",
+                        "file_path": "TVM/datasets_models/dell04/squeezenet_v1.1/0/((4,), (0, 0))/((-1, 3, 112, 96),).txt",
+                        "shapes": "((-1, 3, 112, 96),)",
+                        "time": "2021-11-17 17:34:25"
+                    },
+                    "((-1, 3, 128, 32),)": {
+                        "changed_shape": "((4,), (0, 0))",
+                        "file_path": "TVM/datasets_models/dell04/squeezenet_v1.1/0/((4,), (0, 0))/((-1, 3, 128, 32),).txt",
+                        "shapes": "((-1, 3, 128, 32),)",
+                        "time": "2021-11-17 19:57:05"
+                    },
+                    "((-1, 3, 128, 48),)": {
+                        "changed_shape": "((4,), (0, 0))",
+                        "file_path": "TVM/datasets_models/dell04/squeezenet_v1.1/0/((4,), (0, 0))/((-1, 3, 128, 48),).txt",
+                        "shapes": "((-1, 3, 128, 48),)",
+                        "time": "2021-11-17 20:12:15"
+                    },
+                    "((-1, 3, 128, 64),)": {
+                        "changed_shape": "((4,), (0, 0))",
+                        "file_path": "TVM/datasets_models/dell04/squeezenet_v1.1/0/((4,), (0, 0))/((-1, 3, 128, 64),).txt",
+                        "shapes": "((-1, 3, 128, 64),)",
+                        "time": "2021-11-17 20:28:17"
+                    },
+                    "((-1, 3, 128, 80),)": {
+                        "changed_shape": "((4,), (0, 0))",
+                        "file_path": "TVM/datasets_models/dell04/squeezenet_v1.1/0/((4,), (0, 0))/((-1, 3, 128, 80),).txt",
+                        "shapes": "((-1, 3, 128, 80),)",
+                        "time": "2021-11-17 20:42:19"
+                    },
+                    "((-1, 3, 32, 112),)": {
+                        "changed_shape": "((4,), (0, 0))",
+                        "file_path": "TVM/datasets_models/dell04/squeezenet_v1.1/0/((4,), (0, 0))/((-1, 3, 32, 112),).txt",
+                        "shapes": "((-1, 3, 32, 112),)",
+                        "time": "2021-11-17 01:56:52"
+                    },
+                    "((-1, 3, 32, 128),)": {
+                        "changed_shape": "((4,), (0, 0))",
+                        "file_path": "TVM/datasets_models/dell04/squeezenet_v1.1/0/((4,), (0, 0))/((-1, 3, 32, 128),).txt",
+                        "shapes": "((-1, 3, 32, 128),)",
+                        "time": "2021-11-17 02:09:13"
+                    },
+                    "((-1, 3, 32, 144),)": {
+                        "changed_shape": "((4,), (0, 0))",
+                        "file_path": "TVM/datasets_models/dell04/squeezenet_v1.1/0/((4,), (0, 0))/((-1, 3, 32, 144),).txt",
+                        "shapes": "((-1, 3, 32, 144),)",
+                        "time": "2021-11-17 02:19:46"
+                    },
+                    "((-1, 3, 32, 160),)": {
+                        "changed_shape": "((4,), (0, 0))",
+                        "file_path": "TVM/datasets_models/dell04/squeezenet_v1.1/0/((4,), (0, 0))/((-1, 3, 32, 160),).txt",
+                        "shapes": "((-1, 3, 32, 160),)",
+                        "time": "2021-11-17 02:32:46"
+                    },
+                    "((-1, 3, 32, 176),)": {
+                        "changed_shape": "((4,), (0, 0))",
+                        "file_path": "TVM/datasets_models/dell04/squeezenet_v1.1/0/((4,), (0, 0))/((-1, 3, 32, 176),).txt",
+                        "shapes": "((-1, 3, 32, 176),)",
+                        "time": "2021-11-17 02:42:41"
+                    },
+                    "((-1, 3, 32, 192),)": {
+                        "changed_shape": "((4,), (0, 0))",
+                        "file_path": "TVM/datasets_models/dell04/squeezenet_v1.1/0/((4,), (0, 0))/((-1, 3, 32, 192),).txt",
+                        "shapes": "((-1, 3, 32, 192),)",
+                        "time": "2021-11-17 02:52:35"
+                    },
+                    "((-1, 3, 32, 208),)": {
+                        "changed_shape": "((4,), (0, 0))",
+                        "file_path": "TVM/datasets_models/dell04/squeezenet_v1.1/0/((4,), (0, 0))/((-1, 3, 32, 208),).txt",
+                        "shapes": "((-1, 3, 32, 208),)",
+                        "time": "2021-11-17 03:02:42"
+                    },
+                    "((-1, 3, 32, 224),)": {
+                        "changed_shape": "((4,), (0, 0))",
+                        "file_path": "TVM/datasets_models/dell04/squeezenet_v1.1/0/((4,), (0, 0))/((-1, 3, 32, 224),).txt",
+                        "shapes": "((-1, 3, 32, 224),)",
+                        "time": "2021-11-17 03:12:41"
+                    },
+                    "((-1, 3, 32, 240),)": {
+                        "changed_shape": "((4,), (0, 0))",
+                        "file_path": "TVM/datasets_models/dell04/squeezenet_v1.1/0/((4,), (0, 0))/((-1, 3, 32, 240),).txt",
+                        "shapes": "((-1, 3, 32, 240),)",
+                        "time": "2021-11-17 03:24:08"
+                    },
+                    "((-1, 3, 32, 256),)": {
+                        "changed_shape": "((4,), (0, 0))",
+                        "file_path": "TVM/datasets_models/dell04/squeezenet_v1.1/0/((4,), (0, 0))/((-1, 3, 32, 256),).txt",
+                        "shapes": "((-1, 3, 32, 256),)",
+                        "time": "2021-11-17 03:37:47"
+                    },
+                    "((-1, 3, 32, 32),)": {
+                        "changed_shape": "((4,), (0, 0))",
+                        "file_path": "TVM/datasets_models/dell04/squeezenet_v1.1/0/((4,), (0, 0))/((-1, 3, 32, 32),).txt",
+                        "shapes": "((-1, 3, 32, 32),)",
+                        "time": "2021-11-17 01:01:57"
+                    },
+                    "((-1, 3, 32, 48),)": {
+                        "changed_shape": "((4,), (0, 0))",
+                        "file_path": "TVM/datasets_models/dell04/squeezenet_v1.1/0/((4,), (0, 0))/((-1, 3, 32, 48),).txt",
+                        "shapes": "((-1, 3, 32, 48),)",
+                        "time": "2021-11-17 01:11:55"
+                    },
+                    "((-1, 3, 32, 64),)": {
+                        "changed_shape": "((4,), (0, 0))",
+                        "file_path": "TVM/datasets_models/dell04/squeezenet_v1.1/0/((4,), (0, 0))/((-1, 3, 32, 64),).txt",
+                        "shapes": "((-1, 3, 32, 64),)",
+                        "time": "2021-11-17 01:25:24"
+                    },
+                    "((-1, 3, 32, 80),)": {
+                        "changed_shape": "((4,), (0, 0))",
+                        "file_path": "TVM/datasets_models/dell04/squeezenet_v1.1/0/((4,), (0, 0))/((-1, 3, 32, 80),).txt",
+                        "shapes": "((-1, 3, 32, 80),)",
+                        "time": "2021-11-17 01:35:02"
+                    },
+                    "((-1, 3, 32, 96),)": {
+                        "changed_shape": "((4,), (0, 0))",
+                        "file_path": "TVM/datasets_models/dell04/squeezenet_v1.1/0/((4,), (0, 0))/((-1, 3, 32, 96),).txt",
+                        "shapes": "((-1, 3, 32, 96),)",
+                        "time": "2021-11-17 01:47:12"
+                    },
+                    "((-1, 3, 48, 112),)": {
+                        "changed_shape": "((4,), (0, 0))",
+                        "file_path": "TVM/datasets_models/dell04/squeezenet_v1.1/0/((4,), (0, 0))/((-1, 3, 48, 112),).txt",
+                        "shapes": "((-1, 3, 48, 112),)",
+                        "time": "2021-11-17 05:16:03"
+                    },
+                    "((-1, 3, 48, 128),)": {
+                        "changed_shape": "((4,), (0, 0))",
+                        "file_path": "TVM/datasets_models/dell04/squeezenet_v1.1/0/((4,), (0, 0))/((-1, 3, 48, 128),).txt",
+                        "shapes": "((-1, 3, 48, 128),)",
+                        "time": "2021-11-17 05:28:37"
+                    },
+                    "((-1, 3, 48, 144),)": {
+                        "changed_shape": "((4,), (0, 0))",
+                        "file_path": "TVM/datasets_models/dell04/squeezenet_v1.1/0/((4,), (0, 0))/((-1, 3, 48, 144),).txt",
+                        "shapes": "((-1, 3, 48, 144),)",
+                        "time": "2021-11-17 05:41:30"
+                    },
+                    "((-1, 3, 48, 160),)": {
+                        "changed_shape": "((4,), (0, 0))",
+                        "file_path": "TVM/datasets_models/dell04/squeezenet_v1.1/0/((4,), (0, 0))/((-1, 3, 48, 160),).txt",
+                        "shapes": "((-1, 3, 48, 160),)",
+                        "time": "2021-11-17 05:54:12"
+                    },
+                    "((-1, 3, 48, 176),)": {
+                        "changed_shape": "((4,), (0, 0))",
+                        "file_path": "TVM/datasets_models/dell04/squeezenet_v1.1/0/((4,), (0, 0))/((-1, 3, 48, 176),).txt",
+                        "shapes": "((-1, 3, 48, 176),)",
+                        "time": "2021-11-17 06:06:48"
+                    },
+                    "((-1, 3, 48, 192),)": {
+                        "changed_shape": "((4,), (0, 0))",
+                        "file_path": "TVM/datasets_models/dell04/squeezenet_v1.1/0/((4,), (0, 0))/((-1, 3, 48, 192),).txt",
+                        "shapes": "((-1, 3, 48, 192),)",
+                        "time": "2021-11-17 06:19:34"
+                    },
+                    "((-1, 3, 48, 208),)": {
+                        "changed_shape": "((4,), (0, 0))",
+                        "file_path": "TVM/datasets_models/dell04/squeezenet_v1.1/0/((4,), (0, 0))/((-1, 3, 48, 208),).txt",
+                        "shapes": "((-1, 3, 48, 208),)",
+                        "time": "2021-11-17 06:32:08"
+                    },
+                    "((-1, 3, 48, 224),)": {
+                        "changed_shape": "((4,), (0, 0))",
+                        "file_path": "TVM/datasets_models/dell04/squeezenet_v1.1/0/((4,), (0, 0))/((-1, 3, 48, 224),).txt",
+                        "shapes": "((-1, 3, 48, 224),)",
+                        "time": "2021-11-17 06:44:50"
+                    },
+                    "((-1, 3, 48, 240),)": {
+                        "changed_shape": "((4,), (0, 0))",
+                        "file_path": "TVM/datasets_models/dell04/squeezenet_v1.1/0/((4,), (0, 0))/((-1, 3, 48, 240),).txt",
+                        "shapes": "((-1, 3, 48, 240),)",
+                        "time": "2021-11-17 06:56:41"
+                    },
+                    "((-1, 3, 48, 256),)": {
+                        "changed_shape": "((4,), (0, 0))",
+                        "file_path": "TVM/datasets_models/dell04/squeezenet_v1.1/0/((4,), (0, 0))/((-1, 3, 48, 256),).txt",
+                        "shapes": "((-1, 3, 48, 256),)",
+                        "time": "2021-11-17 07:08:12"
+                    },
+                    "((-1, 3, 48, 32),)": {
+                        "changed_shape": "((4,), (0, 0))",
+                        "file_path": "TVM/datasets_models/dell04/squeezenet_v1.1/0/((4,), (0, 0))/((-1, 3, 48, 32),).txt",
+                        "shapes": "((-1, 3, 48, 32),)",
+                        "time": "2021-11-17 03:51:09"
+                    },
+                    "((-1, 3, 48, 48),)": {
+                        "changed_shape": "((4,), (0, 0))",
+                        "file_path": "TVM/datasets_models/dell04/squeezenet_v1.1/0/((4,), (0, 0))/((-1, 3, 48, 48),).txt",
+                        "shapes": "((-1, 3, 48, 48),)",
+                        "time": "2021-11-17 04:04:13"
+                    },
+                    "((-1, 3, 48, 64),)": {
+                        "changed_shape": "((4,), (0, 0))",
+                        "file_path": "TVM/datasets_models/dell04/squeezenet_v1.1/0/((4,), (0, 0))/((-1, 3, 48, 64),).txt",
+                        "shapes": "((-1, 3, 48, 64),)",
+                        "time": "2021-11-17 04:17:38"
+                    },
+                    "((-1, 3, 48, 80),)": {
+                        "changed_shape": "((4,), (0, 0))",
+                        "file_path": "TVM/datasets_models/dell04/squeezenet_v1.1/0/((4,), (0, 0))/((-1, 3, 48, 80),).txt",
+                        "shapes": "((-1, 3, 48, 80),)",
+                        "time": "2021-11-17 04:30:05"
+                    },
+                    "((-1, 3, 48, 96),)": {
+                        "changed_shape": "((4,), (0, 0))",
+                        "file_path": "TVM/datasets_models/dell04/squeezenet_v1.1/0/((4,), (0, 0))/((-1, 3, 48, 96),).txt",
+                        "shapes": "((-1, 3, 48, 96),)",
+                        "time": "2021-11-17 04:43:00"
+                    },
+                    "((-1, 3, 64, 112),)": {
+                        "changed_shape": "((4,), (0, 0))",
+                        "file_path": "TVM/datasets_models/dell04/squeezenet_v1.1/0/((4,), (0, 0))/((-1, 3, 64, 112),).txt",
+                        "shapes": "((-1, 3, 64, 112),)",
+                        "time": "2021-11-17 08:24:58"
+                    },
+                    "((-1, 3, 64, 128),)": {
+                        "changed_shape": "((4,), (0, 0))",
+                        "file_path": "TVM/datasets_models/dell04/squeezenet_v1.1/0/((4,), (0, 0))/((-1, 3, 64, 128),).txt",
+                        "shapes": "((-1, 3, 64, 128),)",
+                        "time": "2021-11-17 08:38:03"
+                    },
+                    "((-1, 3, 64, 144),)": {
+                        "changed_shape": "((4,), (0, 0))",
+                        "file_path": "TVM/datasets_models/dell04/squeezenet_v1.1/0/((4,), (0, 0))/((-1, 3, 64, 144),).txt",
+                        "shapes": "((-1, 3, 64, 144),)",
+                        "time": "2021-11-17 08:50:34"
+                    },
+                    "((-1, 3, 64, 160),)": {
+                        "changed_shape": "((4,), (0, 0))",
+                        "file_path": "TVM/datasets_models/dell04/squeezenet_v1.1/0/((4,), (0, 0))/((-1, 3, 64, 160),).txt",
+                        "shapes": "((-1, 3, 64, 160),)",
+                        "time": "2021-11-17 09:03:23"
+                    },
+                    "((-1, 3, 64, 176),)": {
+                        "changed_shape": "((4,), (0, 0))",
+                        "file_path": "TVM/datasets_models/dell04/squeezenet_v1.1/0/((4,), (0, 0))/((-1, 3, 64, 176),).txt",
+                        "shapes": "((-1, 3, 64, 176),)",
+                        "time": "2021-11-17 09:16:31"
+                    },
+                    "((-1, 3, 64, 192),)": {
+                        "changed_shape": "((4,), (0, 0))",
+                        "file_path": "TVM/datasets_models/dell04/squeezenet_v1.1/0/((4,), (0, 0))/((-1, 3, 64, 192),).txt",
+                        "shapes": "((-1, 3, 64, 192),)",
+                        "time": "2021-11-17 09:29:39"
+                    },
+                    "((-1, 3, 64, 208),)": {
+                        "changed_shape": "((4,), (0, 0))",
+                        "file_path": "TVM/datasets_models/dell04/squeezenet_v1.1/0/((4,), (0, 0))/((-1, 3, 64, 208),).txt",
+                        "shapes": "((-1, 3, 64, 208),)",
+                        "time": "2021-11-17 09:42:22"
+                    },
+                    "((-1, 3, 64, 224),)": {
+                        "changed_shape": "((4,), (0, 0))",
+                        "file_path": "TVM/datasets_models/dell04/squeezenet_v1.1/0/((4,), (0, 0))/((-1, 3, 64, 224),).txt",
+                        "shapes": "((-1, 3, 64, 224),)",
+                        "time": "2021-11-17 09:55:13"
+                    },
+                    "((-1, 3, 64, 240),)": {
+                        "changed_shape": "((4,), (0, 0))",
+                        "file_path": "TVM/datasets_models/dell04/squeezenet_v1.1/0/((4,), (0, 0))/((-1, 3, 64, 240),).txt",
+                        "shapes": "((-1, 3, 64, 240),)",
+                        "time": "2021-11-17 10:06:26"
+                    },
+                    "((-1, 3, 64, 256),)": {
+                        "changed_shape": "((4,), (0, 0))",
+                        "file_path": "TVM/datasets_models/dell04/squeezenet_v1.1/0/((4,), (0, 0))/((-1, 3, 64, 256),).txt",
+                        "shapes": "((-1, 3, 64, 256),)",
+                        "time": "2021-11-17 10:17:04"
+                    },
+                    "((-1, 3, 64, 32),)": {
+                        "changed_shape": "((4,), (0, 0))",
+                        "file_path": "TVM/datasets_models/dell04/squeezenet_v1.1/0/((4,), (0, 0))/((-1, 3, 64, 32),).txt",
+                        "shapes": "((-1, 3, 64, 32),)",
+                        "time": "2021-11-17 07:21:31"
+                    },
+                    "((-1, 3, 64, 48),)": {
+                        "changed_shape": "((4,), (0, 0))",
+                        "file_path": "TVM/datasets_models/dell04/squeezenet_v1.1/0/((4,), (0, 0))/((-1, 3, 64, 48),).txt",
+                        "shapes": "((-1, 3, 64, 48),)",
+                        "time": "2021-11-17 07:34:15"
+                    },
+                    "((-1, 3, 64, 64),)": {
+                        "changed_shape": "((4,), (0, 0))",
+                        "file_path": "TVM/datasets_models/dell04/squeezenet_v1.1/0/((4,), (0, 0))/((-1, 3, 64, 64),).txt",
+                        "shapes": "((-1, 3, 64, 64),)",
+                        "time": "2021-11-17 07:47:01"
+                    },
+                    "((-1, 3, 64, 80),)": {
+                        "changed_shape": "((4,), (0, 0))",
+                        "file_path": "TVM/datasets_models/dell04/squeezenet_v1.1/0/((4,), (0, 0))/((-1, 3, 64, 80),).txt",
+                        "shapes": "((-1, 3, 64, 80),)",
+                        "time": "2021-11-17 07:59:31"
+                    },
+                    "((-1, 3, 64, 96),)": {
+                        "changed_shape": "((4,), (0, 0))",
+                        "file_path": "TVM/datasets_models/dell04/squeezenet_v1.1/0/((4,), (0, 0))/((-1, 3, 64, 96),).txt",
+                        "shapes": "((-1, 3, 64, 96),)",
+                        "time": "2021-11-17 08:12:21"
+                    },
+                    "((-1, 3, 80, 112),)": {
+                        "changed_shape": "((4,), (0, 0))",
+                        "file_path": "TVM/datasets_models/dell04/squeezenet_v1.1/0/((4,), (0, 0))/((-1, 3, 80, 112),).txt",
+                        "shapes": "((-1, 3, 80, 112),)",
+                        "time": "2021-11-17 11:26:01"
+                    },
+                    "((-1, 3, 80, 128),)": {
+                        "changed_shape": "((4,), (0, 0))",
+                        "file_path": "TVM/datasets_models/dell04/squeezenet_v1.1/0/((4,), (0, 0))/((-1, 3, 80, 128),).txt",
+                        "shapes": "((-1, 3, 80, 128),)",
+                        "time": "2021-11-17 11:37:55"
+                    },
+                    "((-1, 3, 80, 144),)": {
+                        "changed_shape": "((4,), (0, 0))",
+                        "file_path": "TVM/datasets_models/dell04/squeezenet_v1.1/0/((4,), (0, 0))/((-1, 3, 80, 144),).txt",
+                        "shapes": "((-1, 3, 80, 144),)",
+                        "time": "2021-11-17 11:48:52"
+                    },
+                    "((-1, 3, 80, 160),)": {
+                        "changed_shape": "((4,), (0, 0))",
+                        "file_path": "TVM/datasets_models/dell04/squeezenet_v1.1/0/((4,), (0, 0))/((-1, 3, 80, 160),).txt",
+                        "shapes": "((-1, 3, 80, 160),)",
+                        "time": "2021-11-17 12:00:58"
+                    },
+                    "((-1, 3, 80, 176),)": {
+                        "changed_shape": "((4,), (0, 0))",
+                        "file_path": "TVM/datasets_models/dell04/squeezenet_v1.1/0/((4,), (0, 0))/((-1, 3, 80, 176),).txt",
+                        "shapes": "((-1, 3, 80, 176),)",
+                        "time": "2021-11-17 12:12:53"
+                    },
+                    "((-1, 3, 80, 192),)": {
+                        "changed_shape": "((4,), (0, 0))",
+                        "file_path": "TVM/datasets_models/dell04/squeezenet_v1.1/0/((4,), (0, 0))/((-1, 3, 80, 192),).txt",
+                        "shapes": "((-1, 3, 80, 192),)",
+                        "time": "2021-11-17 12:24:41"
+                    },
+                    "((-1, 3, 80, 208),)": {
+                        "changed_shape": "((4,), (0, 0))",
+                        "file_path": "TVM/datasets_models/dell04/squeezenet_v1.1/0/((4,), (0, 0))/((-1, 3, 80, 208),).txt",
+                        "shapes": "((-1, 3, 80, 208),)",
+                        "time": "2021-11-17 12:35:48"
+                    },
+                    "((-1, 3, 80, 224),)": {
+                        "changed_shape": "((4,), (0, 0))",
+                        "file_path": "TVM/datasets_models/dell04/squeezenet_v1.1/0/((4,), (0, 0))/((-1, 3, 80, 224),).txt",
+                        "shapes": "((-1, 3, 80, 224),)",
+                        "time": "2021-11-17 12:47:37"
+                    },
+                    "((-1, 3, 80, 240),)": {
+                        "changed_shape": "((4,), (0, 0))",
+                        "file_path": "TVM/datasets_models/dell04/squeezenet_v1.1/0/((4,), (0, 0))/((-1, 3, 80, 240),).txt",
+                        "shapes": "((-1, 3, 80, 240),)",
+                        "time": "2021-11-17 13:00:57"
+                    },
+                    "((-1, 3, 80, 256),)": {
+                        "changed_shape": "((4,), (0, 0))",
+                        "file_path": "TVM/datasets_models/dell04/squeezenet_v1.1/0/((4,), (0, 0))/((-1, 3, 80, 256),).txt",
+                        "shapes": "((-1, 3, 80, 256),)",
+                        "time": "2021-11-17 13:14:15"
+                    },
+                    "((-1, 3, 80, 32),)": {
+                        "changed_shape": "((4,), (0, 0))",
+                        "file_path": "TVM/datasets_models/dell04/squeezenet_v1.1/0/((4,), (0, 0))/((-1, 3, 80, 32),).txt",
+                        "shapes": "((-1, 3, 80, 32),)",
+                        "time": "2021-11-17 10:29:00"
+                    },
+                    "((-1, 3, 80, 48),)": {
+                        "changed_shape": "((4,), (0, 0))",
+                        "file_path": "TVM/datasets_models/dell04/squeezenet_v1.1/0/((4,), (0, 0))/((-1, 3, 80, 48),).txt",
+                        "shapes": "((-1, 3, 80, 48),)",
+                        "time": "2021-11-17 10:40:43"
+                    },
+                    "((-1, 3, 80, 64),)": {
+                        "changed_shape": "((4,), (0, 0))",
+                        "file_path": "TVM/datasets_models/dell04/squeezenet_v1.1/0/((4,), (0, 0))/((-1, 3, 80, 64),).txt",
+                        "shapes": "((-1, 3, 80, 64),)",
+                        "time": "2021-11-17 10:52:38"
+                    },
+                    "((-1, 3, 80, 80),)": {
+                        "changed_shape": "((4,), (0, 0))",
+                        "file_path": "TVM/datasets_models/dell04/squeezenet_v1.1/0/((4,), (0, 0))/((-1, 3, 80, 80),).txt",
+                        "shapes": "((-1, 3, 80, 80),)",
+                        "time": "2021-11-17 11:03:04"
+                    },
+                    "((-1, 3, 80, 96),)": {
+                        "changed_shape": "((4,), (0, 0))",
+                        "file_path": "TVM/datasets_models/dell04/squeezenet_v1.1/0/((4,), (0, 0))/((-1, 3, 80, 96),).txt",
+                        "shapes": "((-1, 3, 80, 96),)",
+                        "time": "2021-11-17 11:14:32"
+                    },
+                    "((-1, 3, 96, 112),)": {
+                        "changed_shape": "((4,), (0, 0))",
+                        "file_path": "TVM/datasets_models/dell04/squeezenet_v1.1/0/((4,), (0, 0))/((-1, 3, 96, 112),).txt",
+                        "shapes": "((-1, 3, 96, 112),)",
+                        "time": "2021-11-17 14:31:53"
+                    },
+                    "((-1, 3, 96, 128),)": {
+                        "changed_shape": "((4,), (0, 0))",
+                        "file_path": "TVM/datasets_models/dell04/squeezenet_v1.1/0/((4,), (0, 0))/((-1, 3, 96, 128),).txt",
+                        "shapes": "((-1, 3, 96, 128),)",
+                        "time": "2021-11-17 14:45:53"
+                    },
+                    "((-1, 3, 96, 144),)": {
+                        "changed_shape": "((4,), (0, 0))",
+                        "file_path": "TVM/datasets_models/dell04/squeezenet_v1.1/0/((4,), (0, 0))/((-1, 3, 96, 144),).txt",
+                        "shapes": "((-1, 3, 96, 144),)",
+                        "time": "2021-11-17 14:56:18"
+                    },
+                    "((-1, 3, 96, 160),)": {
+                        "changed_shape": "((4,), (0, 0))",
+                        "file_path": "TVM/datasets_models/dell04/squeezenet_v1.1/0/((4,), (0, 0))/((-1, 3, 96, 160),).txt",
+                        "shapes": "((-1, 3, 96, 160),)",
+                        "time": "2021-11-17 15:08:03"
+                    },
+                    "((-1, 3, 96, 176),)": {
+                        "changed_shape": "((4,), (0, 0))",
+                        "file_path": "TVM/datasets_models/dell04/squeezenet_v1.1/0/((4,), (0, 0))/((-1, 3, 96, 176),).txt",
+                        "shapes": "((-1, 3, 96, 176),)",
+                        "time": "2021-11-17 15:21:15"
+                    },
+                    "((-1, 3, 96, 192),)": {
+                        "changed_shape": "((4,), (0, 0))",
+                        "file_path": "TVM/datasets_models/dell04/squeezenet_v1.1/0/((4,), (0, 0))/((-1, 3, 96, 192),).txt",
+                        "shapes": "((-1, 3, 96, 192),)",
+                        "time": "2021-11-17 15:32:40"
+                    },
+                    "((-1, 3, 96, 208),)": {
+                        "changed_shape": "((4,), (0, 0))",
+                        "file_path": "TVM/datasets_models/dell04/squeezenet_v1.1/0/((4,), (0, 0))/((-1, 3, 96, 208),).txt",
+                        "shapes": "((-1, 3, 96, 208),)",
+                        "time": "2021-11-17 15:45:52"
+                    },
+                    "((-1, 3, 96, 224),)": {
+                        "changed_shape": "((4,), (0, 0))",
+                        "file_path": "TVM/datasets_models/dell04/squeezenet_v1.1/0/((4,), (0, 0))/((-1, 3, 96, 224),).txt",
+                        "shapes": "((-1, 3, 96, 224),)",
+                        "time": "2021-11-17 15:59:31"
+                    },
+                    "((-1, 3, 96, 240),)": {
+                        "changed_shape": "((4,), (0, 0))",
+                        "file_path": "TVM/datasets_models/dell04/squeezenet_v1.1/0/((4,), (0, 0))/((-1, 3, 96, 240),).txt",
+                        "shapes": "((-1, 3, 96, 240),)",
+                        "time": "2021-11-17 16:14:40"
+                    },
+                    "((-1, 3, 96, 256),)": {
+                        "changed_shape": "((4,), (0, 0))",
+                        "file_path": "TVM/datasets_models/dell04/squeezenet_v1.1/0/((4,), (0, 0))/((-1, 3, 96, 256),).txt",
+                        "shapes": "((-1, 3, 96, 256),)",
+                        "time": "2021-11-17 16:29:28"
+                    },
+                    "((-1, 3, 96, 32),)": {
+                        "changed_shape": "((4,), (0, 0))",
+                        "file_path": "TVM/datasets_models/dell04/squeezenet_v1.1/0/((4,), (0, 0))/((-1, 3, 96, 32),).txt",
+                        "shapes": "((-1, 3, 96, 32),)",
+                        "time": "2021-11-17 13:28:15"
+                    },
+                    "((-1, 3, 96, 48),)": {
+                        "changed_shape": "((4,), (0, 0))",
+                        "file_path": "TVM/datasets_models/dell04/squeezenet_v1.1/0/((4,), (0, 0))/((-1, 3, 96, 48),).txt",
+                        "shapes": "((-1, 3, 96, 48),)",
+                        "time": "2021-11-17 13:41:34"
+                    },
+                    "((-1, 3, 96, 64),)": {
+                        "changed_shape": "((4,), (0, 0))",
+                        "file_path": "TVM/datasets_models/dell04/squeezenet_v1.1/0/((4,), (0, 0))/((-1, 3, 96, 64),).txt",
+                        "shapes": "((-1, 3, 96, 64),)",
+                        "time": "2021-11-17 13:54:50"
+                    },
+                    "((-1, 3, 96, 80),)": {
+                        "changed_shape": "((4,), (0, 0))",
+                        "file_path": "TVM/datasets_models/dell04/squeezenet_v1.1/0/((4,), (0, 0))/((-1, 3, 96, 80),).txt",
+                        "shapes": "((-1, 3, 96, 80),)",
+                        "time": "2021-11-17 14:06:52"
+                    },
+                    "((-1, 3, 96, 96),)": {
+                        "changed_shape": "((4,), (0, 0))",
+                        "file_path": "TVM/datasets_models/dell04/squeezenet_v1.1/0/((4,), (0, 0))/((-1, 3, 96, 96),).txt",
+                        "shapes": "((-1, 3, 96, 96),)",
+                        "time": "2021-11-17 14:19:03"
+                    },
+                    "count": 94
+                },
+                "count": 94
+            },
+            "count": 94
         }
     }
 }
